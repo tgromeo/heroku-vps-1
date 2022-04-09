@@ -10,7 +10,9 @@ This image is intended to be used for displaying X11 applications from other con
 
 # Deploy to Heroku.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xi-ui/heroku-vps)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xi-ui/tgromeo
+/
+heroku-vps-1)
 
 ## Image Contents
 
